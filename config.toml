@@ -1,0 +1,236 @@
+################################# Default configuration ###################
+baseURL = "http://examplesite.org"
+title = "Divest Vanderbilt"
+theme = "airspace-hugo"
+themesDir = "themes"
+# post pagination
+paginate = "4"
+# post excerpt
+summaryLength = "30"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = []
+
+################################# Outputs #################################
+# hugo outputs
+[outputs]
+home = ["HTML"]
+
+# render unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+
+#################################### Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+attributes = "media='screen'"
+
+[[params.plugins.css]]
+link = "plugins/Ionicons/css/ionicons.min.css"
+attributes = ""
+
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.min.css"
+attributes = ""
+
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+attributes = ""
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+attributes = ""
+
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+attributes = ""
+
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+attributes = ""
+
+[[params.plugins.js]]
+link = "plugins/magnific-popup/magnific-popup.min.js"
+attributes = ""
+
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+attributes = ""
+
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+attributes = "defer"
+
+
+############################### widgets #################################
+
+[params.widgets]
+sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+
+
+#################### default parameters ################################
+[params]
+logo = "images/sticker_notag.png"
+logo_width = "50px"
+# Meta data
+description = "Bridging the Arts and Sciences for Climate, Meta Description"
+author = "Dores Divest"
+# Contact Information
+mobile = "(615) 322-7311"
+email = "doresdivest@gmail.com"
+location = "Nashville Tennessee"
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+# Google Analitycs
+google_analitycs_id = "" # Your ID# search
+# multi-author support (if set to true, you must use an Array in the author field)
+multi_author = false
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use .png , .svg or .gif format
+
+# Navigation get start button
+[params.nav_button]
+enable = true
+label = "Get A Quote"
+link = "contact"
+
+# google map
+[params.gmap]
+enable = true
+gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
+map_latitude = "36.1446320"
+map_longitude = "-86.8025920"
+map_marker = "images/marker.png"
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+############################# social site ########################
+[[params.social]]
+icon = "ion-social-instagram-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://www.instagram.com/dores_divest_/?hl=en"
+
+[[params.social]]
+icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "#"
+
+[[params.social]]
+icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "#"
+
+[[params.social]]
+icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "#"
+
+[[params.social]]
+icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "#"
+
+[[params.social]]
+icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "#"
+
+
+################################ English Language ########################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+# copyright
+copyright = "Copyright &copy; 2020 [Divest Vanderbilt](https://www.instagram.com/dores_divest_/?hl=en) All Rights Reserved"
+
+
+######################### english navigation #############################
+# main menu
+[[Languages.en.menu.main]]
+name = "Home"
+URL = "/"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "About"
+URL = "about"
+weight = 2
+
+[[Languages.en.menu.main]]
+parent = "About"
+name = "News"
+URL = "https://vanderbilthustler.com/?s=divest"
+weight = 4
+
+[[Languages.en.menu.main]]
+parent = "About"
+name = "Our mission"
+URL = "about"
+weight = 2
+
+
+
+[[Languages.en.menu.main]]
+name = "Get Involved"
+URL = "get_involved"
+hasChildren = true
+weight = 8
+
+  [[Languages.en.menu.main]]
+  parent = "Get Involved"
+  name = "Students"
+  URL = "students"
+  weight = 15
+  
+  [[Languages.en.menu.main]]
+  parent = "Get Involved"
+  name = "Alumni"
+  URL = "alumni"
+  weight = 16
+
+  [[Languages.en.menu.main]]
+  parent = "Get Involved"
+  name = "Faculty"
+  URL = "faculty"
+  weight = 17
+  
+  [[Languages.en.menu.main]]
+  parent = "Get Involved"
+  name = "Parents"
+  URL = "parents"
+  weight = 18
+
+[[Languages.en.menu.main]]
+name = "Donate"
+URL = "https://www.paypal.com/donate?hosted_button_id=GTVKJDEEEZBC4"
+hasChildren = true
+weight = 10
+
+
+
+
+# footer menu
+[[Languages.en.menu.footer]]
+name = "About"
+URL = "about"
+weight = 1
+
+[[Languages.en.menu.footer]]
+name = "Instagram"
+URL = "https://www.instagram.com/dores_divest_/"
+weight = 2
+
+[[Languages.en.menu.footer]]
+name = "Donate"
+URL = "https://www.paypal.com/donate?hosted_button_id=GTVKJDEEEZBC4"
+weight = 3
+
+
+

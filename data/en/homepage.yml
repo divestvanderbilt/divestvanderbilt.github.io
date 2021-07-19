@@ -1,0 +1,90 @@
+
+
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/kirkland_vpr.jpg"
+  bg_overlay : true
+  title : "<b>Divest Vanderbilt </b> <br> 'Dores against <br> fossil fuel investments"
+  content : ""
+  button:
+    enable : true
+    label : "Sign the petition"
+    link : "https://docs.google.com/forms/d/e/1FAIpQLSctiWHuZPyfC6HuqV8R_3ML9dCZQGxNf7Sjj7ZSRgEl7vwGzw/viewform"
+
+############################# About #################################
+about:
+  enable : true
+  title : "Our Platform"
+  description : ""
+  content : "Climate change is an existential threat to society and demands immediate and transformative actions by individuals, governments, and institutions such as Vanderbilt University. We propose that Vanderbilt:
+
+<br>
+<br>
+<b>
+1.	Immediately freeze any new investment in fossil fuel companies, and
+<br>
+<br>
+2.	Divest from current holdings in these companies within 3 years, and
+<br>
+<br>
+3.	Reinvest these holdings into carbon-free energy investments. </b>
+<br>
+<br>
+We hope you will join us in accelerating Vanderbilt's effort to stand on the right side of this historic environmental, socioeconomic, and racial justice. 
+
+The time to divest is now!"
+
+  image : "images/hannah.jpg"
+
+
+######################### Portfolio ###############################
+portfolio:
+  enable : true
+  bg_image : "images/protest.jpg"
+  title : ""
+  content : "<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR> "
+  button:
+    enable : false
+    label : "View Works"
+    link : "project"
+
+
+
+############################ call to action ###########################
+cta:
+  enable : false
+  bg_image : "images/students.jpg"
+  title : "We are changing Vanderbilt."
+  content : "Your donations will help make the university's $7 billion endowment green."
+  button:
+    enable : true
+    label : "Donate"
+    link : "https://www.paypal.com/donate?hosted_button_id=GTVKJDEEEZBC4"
+
+
+
+############################# Funfacts ###############################
+funfacts:
+  enable : true
+  title : "Alumni and Community Support"
+  description : ""
+
+
+
+  testimonial_slider:
+    # testimonial item loop
+    - name : "Al Gore"
+      image : "images/gore1.jpg"
+      designation : "U.S. Vice President, Vanderbilt Divinity School"
+      content : "Any organisation committed to operating responsibly in this new decade has a moral imperative to stop participating in financing the destruction of human civilization’s future"
+      
+                
+    # testimonial item loop
+    - name : "Joyce Chaplin"
+      image : "images/joyce.jpg"
+      designation : "Harvard University"
+      content : "As a former Vandy professor, I'm so, so happy to see the students there fighting the good fight against fossil fuels"
+                
+
+      
