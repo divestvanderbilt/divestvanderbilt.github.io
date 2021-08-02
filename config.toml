@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://examplesite.org"
+baseURL = "https://divestvanderbilt.github.io/"
 title = "Divest Vanderbilt"
 theme = "airspace-hugo"
 themesDir = "themes"

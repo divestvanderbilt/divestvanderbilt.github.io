@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our People on Divest Vanderbilt</title>
-    <link>http://examplesite.org/people/</link>
+    <link>https://divestvanderbilt.github.io/people/</link>
     <description>Recent content in Our People on Divest Vanderbilt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 [Divest Vanderbilt](https://www.instagram.com/dores_divest_/?hl=en) All Rights Reserved</copyright><atom:link href="http://examplesite.org/people/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 [Divest Vanderbilt](https://www.instagram.com/dores_divest_/?hl=en) All Rights Reserved</copyright><atom:link href="https://divestvanderbilt.github.io/people/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
