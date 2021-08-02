@@ -85,6 +85,13 @@ funfacts:
       image : "images/joyce.jpg"
       designation : "Harvard University"
       content : "As a former Vandy professor, I'm so, so happy to see the students there fighting the good fight against fossil fuels"
+      
+    
+    # testimonial item loop
+    - name : "Hannah Bruns"
+      image : "images/bruns.jpg"
+      designation : "Vanderbilt Student Body President"
+      content : "The climate emergency is not around the corner, it is here, and Vanderbilt has an opportunity to play a hand in reversing its course."
                 
 
       

@@ -22,7 +22,7 @@ featured_service:
     - name : "Environment"
       icon : "ion-earth"
       color : "primary"
-      content : "if even a third of existing carbon reserves are burned prior to 2050, it will be impossible to limit global wamring to less than 2 degrees C."
+      content : "if even a third of existing carbon reserves are burned prior to 2050, it will be impossible to limit global warming to less than 2 degrees C."
       
     # featured service item loop
     - name : "Moral"
