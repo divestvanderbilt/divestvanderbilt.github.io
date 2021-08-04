@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://divestvanderbilt.github.io/"
+baseURL = "https://divestvanderbilt.com"
 title = "Divest Vanderbilt"
 theme = "airspace-hugo"
 themesDir = "themes"
