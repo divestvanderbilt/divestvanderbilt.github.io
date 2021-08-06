@@ -164,18 +164,11 @@ name = "About"
 URL = "about"
 weight = 2
 
-[[Languages.en.menu.main]]
-parent = "About"
-name = "News"
-URL = "https://vanderbilthustler.com/?s=divest"
-weight = 4
-
-[[Languages.en.menu.main]]
-parent = "About"
-name = "Our mission"
-URL = "about"
-weight = 2
-
+	[[Languages.en.menu.main]]
+	parent = "About"
+	name = "News"
+	URL = "blog"
+	weight = 4
 
 
 [[Languages.en.menu.main]]
@@ -186,27 +179,15 @@ weight = 8
 
   [[Languages.en.menu.main]]
   parent = "Get Involved"
-  name = "Students"
-  URL = "students"
+  name = "2025 Webinar"
+  URL = "https://ef630tkg7q9.typeform.com/to/zpRuqo81"
   weight = 15
   
   [[Languages.en.menu.main]]
   parent = "Get Involved"
-  name = "Alumni"
-  URL = "alumni"
+  name = "Campaign Groupme"
+  URL = "https://l.messenger.com/l.php?u=https%3A%2F%2Fweb.groupme.com%2Fjoin_group%2F60728627%2FQtpGaVws&h=AT1RJz_Bal203f9mpyvzx8NQfiYEicgzwZiZ_czFE6r9MbHYAd7Jkl38jzlEP74OjektX95cIONVWcYqPJw3Vbqgz3wpuyD73WnjdDG3kQOj6KNkZC2KgA6kWTxOn0oW0zqFAGOD6kC8RWUt9mY"
   weight = 16
-
-  [[Languages.en.menu.main]]
-  parent = "Get Involved"
-  name = "Faculty"
-  URL = "faculty"
-  weight = 17
-  
-  [[Languages.en.menu.main]]
-  parent = "Get Involved"
-  name = "Parents"
-  URL = "parents"
-  weight = 18
 
 [[Languages.en.menu.main]]
 name = "Donate"

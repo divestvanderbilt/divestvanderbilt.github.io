@@ -40,21 +40,21 @@ The time to divest is now!"
 
 ######################### Portfolio ###############################
 portfolio:
-  enable : true
+  enable : false
   bg_image : "images/protest.jpg"
   title : ""
   content : "<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR> "
   button:
     enable : false
-    label : "View Works"
-    link : "project"
+    label : "In the News"
+    link : "https://vanderbilthustler.com/?s=divest"
 
 
 
 ############################ call to action ###########################
 cta:
-  enable : false
-  bg_image : "images/students.jpg"
+  enable : true
+  bg_image : "images/protest.jpg"
   title : "We are changing Vanderbilt."
   content : "Your donations will help make the university's $7 billion endowment green."
   button:
@@ -67,7 +67,7 @@ cta:
 ############################# Funfacts ###############################
 funfacts:
   enable : true
-  title : "Alumni and Community Support"
+  title : "# Breaking News: <BR>[Click **here** for latest 2021 headlines](/blog)"
   description : ""
 
 
@@ -92,6 +92,8 @@ funfacts:
       image : "images/bruns.jpg"
       designation : "Vanderbilt Student Body President"
       content : "The climate emergency is not around the corner, it is here, and Vanderbilt has an opportunity to play a hand in reversing its course."
-                
+
+
+
 
       
