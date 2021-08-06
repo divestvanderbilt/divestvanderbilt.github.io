@@ -15,9 +15,9 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "Our Platform"
+  title : "# Breaking News: <BR>[Click **here** for latest 2021 headlines](/blog)"
   description : ""
-  content : "Climate change is an existential threat to society and demands immediate and transformative actions by individuals, governments, and institutions such as Vanderbilt University. We propose that Vanderbilt:
+  content : "<b> Our Platform:</b> Climate change is an existential threat to society and demands immediate and transformative actions by individuals, governments, and institutions such as Vanderbilt University. We propose that Vanderbilt:
 
 <br>
 <br>
@@ -67,7 +67,7 @@ cta:
 ############################# Funfacts ###############################
 funfacts:
   enable : true
-  title : "# Breaking News: <BR>[Click **here** for latest 2021 headlines](/blog)"
+  title : "Community Support"
   description : ""
 
 
