@@ -56,7 +56,7 @@ cta:
   enable : true
   bg_image : "images/protest.jpg"
   title : "We are changing Vanderbilt."
-  content : "Your donations will help make the university's $7 billion endowment green."
+  content : "Your donations will help make the university's $7 billion endowment green. "
   button:
     enable : true
     label : "Donate"
