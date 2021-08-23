@@ -166,10 +166,15 @@ weight = 2
 
 	[[Languages.en.menu.main]]
 	parent = "About"
-	name = "News"
+	name = "Headlines"
 	URL = "blog"
 	weight = 4
 
+	[[Languages.en.menu.main]]
+	parent = "About"
+	name = "Newsletter"
+	URL = "https://drive.google.com/file/d/1I4cHFac2icPiTCXJiTFM52ekr_pHHQ1y/view?usp=sharing"
+	weight = 5
 
 [[Languages.en.menu.main]]
 name = "Get Involved"
