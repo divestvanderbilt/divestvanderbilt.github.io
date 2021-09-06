@@ -2,7 +2,7 @@
 title: "Divestment Activists win $1000 Climate Hub Award"
 date: 2021-05-15T11:07:10+06:00
 author: Ronaldo Handsome
-image : "images/climhub.jpg"
+image : "images/ruth.JPG"
 bg_image: "images/Kirkland.jpg"
 categories: ["Company News"]
 tags: ["Admin Response"]
