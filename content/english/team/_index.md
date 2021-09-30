@@ -21,21 +21,20 @@ bg_image: "images/sign.jpg"
  The intersectional elements of climate change often include challenging topics, such as immigration or AGL. We invite our speakers to speak freely about their experiences regarding these topics.
 <br>
 ### 3. We reject activism that is performative without taking real action
-We are proud to have advocated for divestment during meaningful conversations with faculty and admin <p>
-We are also proud to have used our platform to host a relief supply event for Waverly TN climate flood victims <p>
-We will be mindful of how to better translate our platform into tangible actions, such as by sending additional volunteers to directly support Waverly recovery efforts (sign up here) and by promoting relevant literature and other community actions
+We are proud to have advocated for divestment during meaningful [conversations with faculty and admin](/blog/admin/) <p>
+We are also proud to have used our platform to host a [relief supply event](/blog/relief/) for Waverly TN climate flood victims <p>
+We will be mindful of how to better translate our platform into tangible actions, such as by sending additional volunteers to directly support Waverly recovery efforts [(sign up here)](https://docs.google.com/forms/d/e/1FAIpQLSeCrrIx_qX-jrpXwUZ67RWsoE7hO5cx29bzH9aaGtheNqqyBQ/viewform?usp=sf_link) and by promoting relevant literature and other community actions
 <br>
 ### 4. We will never make light of the painful realities of climate change
 While the admin's backwards logic for avoiding climate action is worth calling out, the painful experience of climate change, often felt by POC, is not a laughing matter. We will be objective in our coverage of climate impacts
 ### 5. We reject exclusivity in activism
-We have never and will never turn away a student for wanting to get more involved. Our organizing exec board is open to all and made up of equally important positions. Complete this form here if you'd like to get more involved.
+We have never and will never turn away a student for wanting to get more involved. Our organizing exec board is open to all and made up of equally important positions. Complete this form [here](https://forms.gle/QYXWSUjbmfZ5xNrP6) if you'd like to get more involved.
 ### 6. When we come short of these goals, we will take accountability
 We will identify why our actions were insensitive, apologize to the individuals hurt by our actions, and outline a better path forward.
-We will continue to be open to your feedback
 ### 7. 	Your feedback is valuable to us
 Email your feedback to doresdivest@gmail.com or DM our instagram for a faster response
  
 
  
 
-  
+  [Click **here** for latest 2021 headlines](/blog)

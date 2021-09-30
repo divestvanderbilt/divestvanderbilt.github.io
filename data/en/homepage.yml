@@ -17,7 +17,7 @@ about:
   enable : true
   title : "# Breaking News: <BR>[Click **here** for latest 2021 headlines](/blog)"
   description : ""
-  content : "<b> Our Mission:</b> The mission of Dores Divest is to cause fossil fuel divestment at Vanderbilt, through both disruptive and non-disruptive means, as a step towards climate justice. <br><br> Climate change is an existential threat to society and demands immediate and transformative actions by individuals, governments, and institutions such as Vanderbilt University. We propose that Vanderbilt:
+  content : "<b> Our Mission:</b> The mission of Dores Divest is to get Vanderbilt University to divest from fossil fuels, through both disruptive and non-disruptive means, as a step towards climate justice. <br><br> Climate change is an existential threat to society and demands immediate and transformative actions by individuals, governments, and institutions such as Vanderbilt University. We propose that Vanderbilt:
 
 <br>
 <br>
@@ -60,7 +60,7 @@ cta:
   button:
     enable : true
     label : "Join us"
-    link : "https://www.paypal.com/donate?hosted_button_id=GTVKJDEEEZBC4"
+    link : "https://forms.gle/QYXWSUjbmfZ5xNrP6"
 
 
 
