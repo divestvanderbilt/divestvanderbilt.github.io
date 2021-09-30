@@ -190,15 +190,22 @@ weight = 8
 
   [[Languages.en.menu.main]]
   parent = "Get Involved"
-  name = "Sept 10th Protest"
-  URL = "https://docs.google.com/forms/d/12n010S17O3wN7Zq4tCbu-bd9XiNfVIHPxL7acDpGZlY/viewform"
+  name = "Student Interest Form"
+  URL = "https://forms.gle/QYXWSUjbmfZ5xNrP6"
   weight = 15
   
   [[Languages.en.menu.main]]
   parent = "Get Involved"
-  name = "Campaign Groupme"
-  URL = "https://l.messenger.com/l.php?u=https%3A%2F%2Fweb.groupme.com%2Fjoin_group%2F60728627%2FQtpGaVws&h=AT1RJz_Bal203f9mpyvzx8NQfiYEicgzwZiZ_czFE6r9MbHYAd7Jkl38jzlEP74OjektX95cIONVWcYqPJw3Vbqgz3wpuyD73WnjdDG3kQOj6KNkZC2KgA6kWTxOn0oW0zqFAGOD6kC8RWUt9mY"
+  name = "Instagram"
+  URL = "https://www.instagram.com/dores_divest_/"
   weight = 16
+  
+  [[Languages.en.menu.main]]
+  parent = "Get Involved"
+  name = "Volunteer"
+  URL = "https://docs.google.com/forms/d/e/1FAIpQLSeCrrIx_qX-jrpXwUZ67RWsoE7hO5cx29bzH9aaGtheNqqyBQ/viewform?usp=sf_link"
+  weight = 17
+
 
 [[Languages.en.menu.main]]
 name = "Donate"
