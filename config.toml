@@ -190,6 +190,12 @@ weight = 8
 
   [[Languages.en.menu.main]]
   parent = "Get Involved"
+  name = "Faculty"
+  URL = "blog/faculty"
+  weight = 14
+
+  [[Languages.en.menu.main]]
+  parent = "Get Involved"
   name = "Student Interest Form"
   URL = "https://forms.gle/QYXWSUjbmfZ5xNrP6"
   weight = 15
