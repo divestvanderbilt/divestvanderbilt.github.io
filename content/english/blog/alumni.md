@@ -17,7 +17,7 @@ We need the leadership of more alums like Al and yourself to help turn the tide 
 # Are you a Vandy alum?
 ## Here are 3 ways for you to get involved.
 
-1. Don't date 'til divestment! 
+1. Don't donate 'til divestment! 
 	* When the alumni office sends a student to ask you for your donation on giving day, politely decline
 	* Let the representative know <b>"I won't be donating until Vanderbilt divests from fossil fuels."</b> Money talks!
 	* Check out coverage of our boycott of donations last year [(link here)](https://vanderbilthustler.com/39793/featured/vanderbilt-naacp-divestvu-and-dores-divest-jointly-call-for-giving-day-boycott/), senior turn out decreased by about 50%!
