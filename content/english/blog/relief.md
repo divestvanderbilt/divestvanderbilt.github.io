@@ -1,6 +1,6 @@
 ---
 title: "Waverly, TN flood affects Vanderbilt community"
-date: 2021-08-28T11:07:10+06:00
+date: 2021-08-01T11:07:10+06:00
 author: Alexa Sullivan and Matthew Shipley
 image : "images/supply.jpg"
 bg_image: "images/sign.jpg"
