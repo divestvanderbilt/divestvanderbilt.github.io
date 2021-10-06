@@ -181,6 +181,12 @@ weight = 2
 	name = "Inclusivity"
 	URL = "team"
 	weight = 6
+	
+	[[Languages.en.menu.main]]
+	parent = "About"
+	name = "Instagram"
+	URL = "https://www.instagram.com/dores_divest_/"
+	weight = 7
 
 [[Languages.en.menu.main]]
 name = "Get Involved"
@@ -196,21 +202,21 @@ weight = 8
 
   [[Languages.en.menu.main]]
   parent = "Get Involved"
-  name = "Student Interest Form"
+  name = "Students"
   URL = "https://forms.gle/QYXWSUjbmfZ5xNrP6"
   weight = 15
   
   [[Languages.en.menu.main]]
   parent = "Get Involved"
-  name = "Instagram"
-  URL = "https://www.instagram.com/dores_divest_/"
+  name = "Alumni"
+  URL = "blog/alumni"
   weight = 16
   
   [[Languages.en.menu.main]]
   parent = "Get Involved"
   name = "Volunteer"
   URL = "https://docs.google.com/forms/d/e/1FAIpQLSeCrrIx_qX-jrpXwUZ67RWsoE7hO5cx29bzH9aaGtheNqqyBQ/viewform?usp=sf_link"
-  weight = 17
+  weight = 18
 
 
 [[Languages.en.menu.main]]
