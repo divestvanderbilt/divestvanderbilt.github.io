@@ -166,6 +166,12 @@ weight = 2
 
 	[[Languages.en.menu.main]]
 	parent = "About"
+	name = "Why Divest?"
+	URL = "blog/about/"
+	weight = 3
+	
+	[[Languages.en.menu.main]]
+	parent = "About"
 	name = "Headlines"
 	URL = "blog"
 	weight = 4
