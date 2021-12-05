@@ -1,6 +1,6 @@
 ---
 title: "Alumni: How to get involved"
-date: 2021-10-06T11:07:10+06:00
+date: 2020-10-16T11:07:10+06:00
 author: Dores Divest
 image : "images/alums.jpg"
 bg_image: "images/Kirkland.jpg"
