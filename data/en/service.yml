@@ -22,19 +22,19 @@ featured_service:
     - name : "Environment"
       icon : "ion-earth"
       color : "primary"
-      content : "if even a third of existing carbon reserves are burned prior to 2050, it will be impossible to limit global warming to less than 2 degrees C."
+      content : "The International Energy Agency makes it clear: no new oil, gas or coal investments if the world wants to reach net zero by 2050." 
       
     # featured service item loop
     - name : "Moral"
       icon : "ion-leaf"
       color : "primary-dark"
-      content : "Vanderbilt has a duty to divest the endowment from unethical enterprises that mislead the public, as it did in 2013 with Emvest."
+      content : "Climate tragedies presently harm Vanderbilts students and faculty. The university's investments must not proliferate these events."
       
     # featured service item loop
     - name : "Financial"
       icon : "ion-cash"
       color : "primary-darker"
-      content : "All top 20 universities that started divesting fossil fuels outperformed Vanderbilt's endowment return in FY20 (-0.1%)."
+      content : "The world’s largest asset manager, BlackRock, found that divesting portfolios either match or outperform non-divesting portfolios."
       
       
 

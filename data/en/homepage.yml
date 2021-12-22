@@ -35,7 +35,7 @@ We hope you will join us in accelerating Vanderbilt's effort to stand on the rig
 
 The time to divest is now!"
 
-  image : "images/ember.jpeg"
+  image : "images/wyatt.jpg"
 
 
 ######################### Portfolio ###############################
@@ -54,8 +54,8 @@ portfolio:
 ############################ call to action ###########################
 cta:
   enable : true
-  bg_image : "images/protest.jpg"
-  title : "Help make Vanderbilt's $7 billion endowment green"
+  bg_image : "images/ember.jpeg"
+  title : "<br><br><br><br>Help make Vanderbilt's $10 billion endowment<br> sustainable for future generations"
   content : ""
   button:
     enable : true
@@ -69,35 +69,73 @@ funfacts:
   enable : true
   title : "Community Support"
   description : ""
-
-
-
+  funfact_item:
+    # funfacts item loop
+    - icon : "ion-ios-people" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "[Petition Signers](https://tinyurl.com/divestvandy)"
+      count : "1586"
+      
+    # funfacts item loop
+    - icon : "ion-social-usd" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "[$ Million <br> Invested in Fossil Fuels at Vandy](https://finance.vanderbilt.edu/accounting/documents/2021_VU_Financial_Report.pdf)"
+      count : "495"
+      
+    # funfacts item loop
+    - icon : "ion-ios-book" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "[Hustler Articles on Divestment](https://vanderbilthustler.com/?s=dores+divest)"
+      count : "24"
+      
+    # funfacts item loop
+    - icon : "ion-university" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "[Universites and Non-Profits Divesting](https://divestmentdatabase.org/)"
+      count : "1300"
   testimonial_slider:
+      # testimonial item loop
+    - name : "Dr. Cecelia Tichi"
+      image : "images/tichi.jpg"
+      designation : "Professor, VU English Department"
+      content : "Vanderbilt and other universities ought to kiss goodbye to fossil fuel energy stocks. Money talks."
+  
+     # testimonial item loop
+    - name : "Dr. Curtis Baysinger"
+      image : "images/baysinger_headshot.jpg"
+      designation : "Professor, VU Medical School"
+      content : "I am a supporter of divestment on moral ground and think that universities should do so as they should lead on following a path to higher moral ground." 
+      
+      # testimonial item loop
+    - name : "Dr. Lori Troxel"
+      image : "images/troxel.jpg"
+      designation : "Professor, VU Engineering"
+      content : "Vanderbilt can support engineering for the future and profit from it, and for this reason, the time has come to begin investing in sustainable technologies"
+  
     # testimonial item loop
-    - name : "Al Gore"
+    - name : "Vice President Al Gore"
       image : "images/gore1.jpg"
-      designation : "U.S. Vice President, Vanderbilt Divinity School"
-      content : "Any organisation committed to operating responsibly in this new decade has a moral imperative to stop participating in financing the destruction of human civilization’s future"
+      designation : "Former VU Student"
+      content : "The climate policies that Vanderbilt has put into place are very respectable... but not where divestment is concerned. People who’ve stayed in fossil fuels because they're 'standing on principle' to defend the endowment have lost their shirts on it."
       
-                
     # testimonial item loop
-    - name : "Joyce Chaplin"
+    - name : "Dr. Amanda Little"
+      image : "images/amandalittle.jpg"
+      designation : "Professor, VU English Department"
+      content : "Divesting in fossil fuels is not only an ethically sound strategy for Vanderbilt, it is an economically sound strategy in the long view."
+        
+    # testimonial item loop
+    - name : "Dr. Joyce Chaplin"
       image : "images/joyce.jpg"
-      designation : "Harvard University"
+      designation : "Professor, Harvard University"
       content : "As a former Vandy professor, I'm so, so happy to see the students there fighting the good fight against fossil fuels"
-      
-    
+
     # testimonial item loop
     - name : "Hannah Bruns"
       image : "images/bruns.jpg"
-      designation : "Vanderbilt Student Body President"
+      designation : "VU Student Body President"
       content : "The climate crisis is very much here and divestment is a pressing issue that needs to be addressed now."
-      
       
           # testimonial item loop
     - name : "Ita Hardesty-Mason"
       image : "images/ita.jpg"
-      designation : "Local Environmental Activist, Climate Nashville"
+      designation : "Nashville Environmental Activist"
       content : "The Rockefeller’s Brothers Fund, who built their fortune on whale oil and then fossil fuels, announced that its $860 million philanthropic organization was joining the divestment movement. Vanderbilt should follow suit."
 
 
