@@ -9,15 +9,15 @@ banner:
   content : ""
   button:
     enable : true
-    label : "Sign the petition"
-    link : "https://docs.google.com/forms/d/e/1FAIpQLSctiWHuZPyfC6HuqV8R_3ML9dCZQGxNf7Sjj7ZSRgEl7vwGzw/viewform"
+    label : "Learn More"
+    link : "/about"
 
 ############################# About #################################
 about:
   enable : true
   title : "# Breaking News: <BR>  Al Gore endorsed our campaign! <BR>[Click **here** for latest 2021 headlines](/blog)"
   description : ""
-  content : "<b> Our Mission:</b> The mission of Dores Divest is to achieve fossil fuel divestment at Vanderbilt University, through both disruptive and non-disruptive means, as a step towards climate justice. <br>Learn more about the campaign <b>[here](/about)</b>.
+  content : "<b> Our Mission:</b> The mission of Dores Divest is to achieve fossil fuel divestment at Vanderbilt University, through both disruptive and non-disruptive means, as a step towards climate justice.
 "
 
   image : "images/wyatt.jpg"
@@ -44,8 +44,8 @@ cta:
   content : ""
   button:
     enable : true
-    label : "Join us"
-    link : "https://forms.gle/QYXWSUjbmfZ5xNrP6"
+    label : "Sign the Petition"
+    link : "https://docs.google.com/forms/d/e/1FAIpQLSctiWHuZPyfC6HuqV8R_3ML9dCZQGxNf7Sjj7ZSRgEl7vwGzw/viewform"
 
 
 
