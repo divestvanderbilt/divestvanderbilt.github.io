@@ -14,9 +14,9 @@ type: "post"
 # Want to help turn the tide on fossil fuels at Vandy?
 ## Here are 3 ways you can get involved:
 
-1. [Sign the community petition](tinyurl.com/divestvandy)
+1. [Sign the community petition](https://docs.google.com/forms/d/e/1FAIpQLSctiWHuZPyfC6HuqV8R_3ML9dCZQGxNf7Sjj7ZSRgEl7vwGzw/viewform)
 	* Hundreds of other students have already signed, but we need your name and email as well!
-	* [Sign here](tinyurl.com/divestvandy) 👈
+	* [Sign here](https://docs.google.com/forms/d/e/1FAIpQLSctiWHuZPyfC6HuqV8R_3ML9dCZQGxNf7Sjj7ZSRgEl7vwGzw/viewform) 👈
 2. [Fill out our membership interest form](https://docs.google.com/forms/d/e/1FAIpQLSdAqZYhFF-pVAads9_-EJjoe54tlFfVcTaJG2iS3D9CgF6QwQ/viewform)
 	* Help plan our protests and demonstrations
 	* Leadership, networking, and social opportunites
