@@ -204,7 +204,7 @@ weight = 8
   [[Languages.en.menu.main]]
   parent = "Get Involved"
   name = "Students"
-  URL = "https://forms.gle/QYXWSUjbmfZ5xNrP6"
+  URL = "blog/students"
   weight = 15
   
   [[Languages.en.menu.main]]
