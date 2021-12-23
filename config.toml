@@ -161,35 +161,30 @@ weight = 1
 
 [[Languages.en.menu.main]]
 name = "About"
-URL = "about"
+URL = "/about"
 weight = 2
 
-	[[Languages.en.menu.main]]
-	parent = "About"
-	name = "Why Divest?"
-	URL = "blog/about/"
-	weight = 3
 	
 	[[Languages.en.menu.main]]
-	parent = "About"
+	parent = "resources"
 	name = "Headlines"
 	URL = "blog"
 	weight = 4
 
 	[[Languages.en.menu.main]]
-	parent = "About"
+	parent = "resources"
 	name = "Newsletter"
 	URL = "https://drive.google.com/file/d/1I4cHFac2icPiTCXJiTFM52ekr_pHHQ1y/view?usp=sharing"
 	weight = 5
 	
 	[[Languages.en.menu.main]]
-	parent = "About"
+	parent = "resources"
 	name = "Inclusivity"
 	URL = "team"
 	weight = 6
 	
 	[[Languages.en.menu.main]]
-	parent = "About"
+	parent = "resources"
 	name = "Instagram"
 	URL = "https://www.instagram.com/dores_divest_/"
 	weight = 7
@@ -217,19 +212,12 @@ weight = 8
   name = "Alumni"
   URL = "blog/alumni"
   weight = 16
-  
+ 
   [[Languages.en.menu.main]]
+  name = "Donate"
   parent = "Get Involved"
-  name = "Volunteer"
-  URL = "https://docs.google.com/forms/d/e/1FAIpQLSeCrrIx_qX-jrpXwUZ67RWsoE7hO5cx29bzH9aaGtheNqqyBQ/viewform?usp=sf_link"
-  weight = 18
-
-
-[[Languages.en.menu.main]]
-name = "Donate"
-URL = "https://www.paypal.com/donate?hosted_button_id=GTVKJDEEEZBC4"
-hasChildren = true
-weight = 10
+  URL = "https://www.paypal.com/donate?hosted_button_id=GTVKJDEEEZBC4"
+  weight = 17
 
 
 
@@ -237,7 +225,7 @@ weight = 10
 # footer menu
 [[Languages.en.menu.footer]]
 name = "About"
-URL = "about"
+URL = "/about"
 weight = 1
 
 [[Languages.en.menu.footer]]

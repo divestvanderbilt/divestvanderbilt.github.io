@@ -1,6 +1,6 @@
 ---
-title: "About Dores Divest"
-description: "Founded 2020"
+title: "Why Divest?"
+description: ""
 draft: false
-bg_image: "images/protest.jpg"
+bg_image: "images/fac7.jpeg"
 ---
