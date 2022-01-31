@@ -35,5 +35,5 @@ DoresDivest demands that Chancellor Diermeier:
  
 Let’s be clear - the reason fossil fuel companies are in need of reputation management services is because their business plans are offensively incompatible with the goals of social, economic, and climate justice. It’s through associations with powerful men such as Chancellor Diermeier that the ExxonMobil’s of the world claim a social license to operate. These licenses must be unequivocally revoked, rejected, and reprimanded, and it is for that reason that Vanderbilt must join other top US universities and divest from fossil fuels.
  
-The full conflict of interest complaint is linked <a href="https://drive.google.com/file/d/1zQ7AcHnRyJEwjhbHt-6WjYWE1nzj2qlp/view?usp=sharing"> here</a>.
+The full conflict of interest complaint is linked <a href="https://bloximages.newyork1.vip.townnews.com/nashvillescene.com/content/tncms/assets/v3/editorial/7/e9/7e9e669c-82e7-11ec-99d3-cb412e3602d9/61f866ad2b149.pdf"> here</a>.
 
