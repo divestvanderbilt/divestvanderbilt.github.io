@@ -10,6 +10,9 @@ description: ""
 draft: false
 type: "post"
 ---
+
+<i>Above: Chancellor Daniel Diermeier advises fossil fuel executives from ROSEN Oil Group and TC Energy Natural Gas Company during a panel titled “Managing Perceptions” at the 2020 International Pipeline Conference. Screenshot obtained from IPC <a href="https://event.asme.org/IPC-2020">2020 Highlight Video</a>.</i>
+
 PRESS RELEASE: DoresDivest’s Statement on Chancellor Diermeier’s Conflict of Interest
 
 <i> 'Don't tell me what you value, show me your budget, and I'll tell you what you value.' -President Joseph R. Biden </i>
@@ -28,9 +31,9 @@ DoresDivest demands that Chancellor Diermeier:
  
 2. Publicly disclose all details of his financial relationships with fossil fuel clients, including when he has advised said clients and the exact amount of money received for his services (if any); AND
  
-3. Recuse himself from all proceedings of the Board of Trust Investment Committee relating to fossil fuel investments, and further remove himself from all future institutional debates on the issue, including Faculty Senate and Board of Trust meetings
+3. Recuse himself from all proceedings of the Board of Trust Investment Committee relating to fossil fuel investments, and further remove himself from all future institutional debates on the issue, including Faculty Senate and Board of Trust meetings.
  
 Let’s be clear - the reason fossil fuel companies are in need of reputation management services is because their business plans are offensively incompatible with the goals of social, economic, and climate justice. It’s through associations with powerful men such as Chancellor Diermeier that the ExxonMobil’s of the world claim a social license to operate. These licenses must be unequivocally revoked, rejected, and reprimanded, and it is for that reason that Vanderbilt must join other top US universities and divest from fossil fuels.
  
-The full conflict of interest complaint is linked <a href="https://drive.google.com/file/d/1zQ7AcHnRyJEwjhbHt-6WjYWE1nzj2qlp/view?usp=sharing"> here </a>.
+The full conflict of interest complaint is linked <a href="https://drive.google.com/file/d/1zQ7AcHnRyJEwjhbHt-6WjYWE1nzj2qlp/view?usp=sharing"> here</a>.
 
