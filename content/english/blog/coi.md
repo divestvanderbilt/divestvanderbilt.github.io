@@ -1,5 +1,5 @@
 ---
-title: "PRESS RELEASE: DoresDivest’s Statement on Chancellor Diermeier’s Conflict of Interest"
+title: "PRESS RELEASE: Dores Divest’s Statement on Chancellor Diermeier’s Conflict of Interest"
 date: 2022-01-30T11:07:10+06:00
 author: Dores Divest 
 image : "images/exec_gang.png"
@@ -13,11 +13,18 @@ type: "post"
 
 <i>Above: Chancellor Daniel Diermeier advises fossil fuel executives from ROSEN Oil Group and TC Energy Natural Gas Company during a panel titled “Managing Perceptions” at the 2020 International Pipeline Conference. Screenshot obtained from IPC <a href="https://event.asme.org/IPC-2020">2020 Highlight Video</a>.</i>
 
-PRESS RELEASE: DoresDivest’s Statement on Chancellor Diermeier’s Conflict of Interest
+## News Coverage
+
+### [Inside Higher Ed](https://www.insidehighered.com/quicktakes/2022/02/02/vanderbilt-students-press-chancellor%E2%80%99s-ties-fossil-fuels)
+### [The Nashville Scene](https://www.nashvillescene.com/news/pithinthewind/vanderbilt-student-group-claims-chancellor-has-oil-related-conflicts-of-interest/article_1ea2971e-82e6-11ec-a933-97f7f7e987b5.html)
+### [Vanderbilt Hustler](https://vanderbilthustler.com/45795/featured/chancellor-diermeiers-ties-to-fossil-fuel-industry-under-review-after-conflict-of-interest-filing/)
+
+# PRESS RELEASE: 
+# Dores Divest’s Statement on Chancellor Diermeier’s Conflict of Interest
 
 <i> 'Don't tell me what you value, show me your budget, and I'll tell you what you value.' -President Joseph R. Biden </i>
 
-On January 30th, 2022, a Vanderbilt community member partnered with DoresDivest to file a complaint requesting that the University Office of Conflict of Interest and Commitment Management investigate Chancellor Daniel Diermeier’s business relationships with the fossil fuel industry. 
+On January 30th, 2022, a Vanderbilt community member partnered with Dores Divest to file a complaint requesting that the University Office of Conflict of Interest and Commitment Management investigate Chancellor Daniel Diermeier’s business relationships with the fossil fuel industry. 
  
 Despite claiming a stance of “principled neutrality,” Diermeier has concealed external consulting work for the fossil fuel industry while simultaneously arguing against fossil fuel divestment to the Vanderbilt community. Since 2020, Diermeier has registered 9 businesses to a 2.4 million dollar penthouse in downtown Nashville. Through these companies, it appears that Diermeier was paid by organizations such as the International Pipeline Foundation to advise fossil fuel executives on “Managing Perceptions” while serving as Vanderbilt University Chancellor. 
  
@@ -25,7 +32,7 @@ It is incredibly disappointing that Chancellor Diermeier, the leader of one of t
  
 Diermeier’s role as VU Chancellor and his position on the Investment Committee gives him the power to influence all decisions regarding investment into fossil fuel companies, including the issue of divestment. Until Diermeier publicly recuses himself from matters related to fossil fuel companies brought to the Investment Committee, Dores Divest finds the Chancellor’s conflict of interest alarmingly unethical…
  
-DoresDivest demands that Chancellor Diermeier:
+Dores Divest demands that Chancellor Diermeier:
  
 1. Fully cooperate with an independent investigation by the Office of Conflict of Interest and Commitment Management; AND
  
