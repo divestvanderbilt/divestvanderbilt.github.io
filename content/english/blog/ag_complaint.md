@@ -10,6 +10,16 @@ description: ""
 draft: false
 type: "post"
 ---
+
+## National Coverage
+
+
+- [Washington Post](https://www.washingtonpost.com/education/2022/02/16/college-fossil-fuel-divest-legal-action/)
+- [Guardian](https://www.theguardian.com/environment/2022/feb/16/us-universities-fossil-fuel-divestment-students-legal-complaint)
+- [PoliticoPro](https://l.messenger.com/l.php?u=https%3A%2F%2Fsubscriber.politicopro.com%2Farticle%2F2022%2F02%2Factivists-file-complaints-against-yale-stanford-mit-over-fossil-fuel-investments-00009366&h=AT3czDs-9RbROHAKiSw49nKvdnSjA_Qdo9rd1oLO_P6HDubnK0G9_gDqqeTVdh0VChIO6cyZj0pzHs4bAd9JTemG8TiyYx1RfGDBIGxNsy1PR7VQtccKUCBBbaA4HldiKMg)
+
+--- 
+
 #### Complaints claim failure to divest violates the Uniform Prudent Management of Institutional Funds Act
 
 For years, students around the country have argued that their universities’ fossil fuel investments are immoral. Now, they’ve discovered that these investments are illegal, too. On February 16th, student-led campaigns for fossil fuel divestment at Yale University in Connecticut, the Massachusetts Institute of Technology in Massachusetts, Princeton University in New Jersey, Stanford University in California, and Vanderbilt University in Tennessee filed legal complaints with their states’ respective attorneys general to investigate continued investment in the fossil fuel sector by school trustees. Frustrated with their universities’ insufficient action in the face of the climate crisis, student divestment campaigns prepared the complaints with the assistance of attorneys from [Climate Defense Project](http://climatedefenseproject.org/) (CDP) and collected signatories from prominent professors, community members, climate scientists, elected officials, student organizations, alumni, and environmental organizations supporting the cause. The campaigns have garnered a total of over 10,000 signatures through petitions and resolutions on their campuses.
