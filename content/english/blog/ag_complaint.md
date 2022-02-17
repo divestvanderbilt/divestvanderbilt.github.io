@@ -20,7 +20,7 @@ type: "post"
 - [PoliticoPro](https://l.messenger.com/l.php?u=https%3A%2F%2Fsubscriber.politicopro.com%2Farticle%2F2022%2F02%2Factivists-file-complaints-against-yale-stanford-mit-over-fossil-fuel-investments-00009366&h=AT3czDs-9RbROHAKiSw49nKvdnSjA_Qdo9rd1oLO_P6HDubnK0G9_gDqqeTVdh0VChIO6cyZj0pzHs4bAd9JTemG8TiyYx1RfGDBIGxNsy1PR7VQtccKUCBBbaA4HldiKMg)
 - [CommonDreams](https://www.commondreams.org/news/2022/02/16/students-top-universities-push-legal-imperative-fossil-fuel-divestment)
 - [EcoWatch](https://www.ecowatch.com/universities-fossil-fuel-divestment-students-legal-complaint.html)
-- [Bizjounrals](https://www.bizjournals.com/bizjournals/news/2022/02/17/college-climate-change-investments.html)
+- [Bizjournals](https://www.bizjournals.com/bizjournals/news/2022/02/17/college-climate-change-investments.html)
 - [Energy News Network](https://energynews.us/digests/slow-divestment-pace-leads-northeast-students-to-file-legal-complaints/)
 
 
