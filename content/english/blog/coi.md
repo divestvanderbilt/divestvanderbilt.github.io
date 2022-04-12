@@ -11,7 +11,7 @@ draft: false
 type: "post"
 ---
 
-<i>Above: Chancellor Daniel Diermeier advises fossil fuel executives from ROSEN Oil Group and TC Energy Natural Gas Company during a panel titled “Managing Perceptions” at the 2020 International Pipeline Conference. Screenshot obtained from IPC <a href="https://event.asme.org/IPC-2020">2020 Highlight Video</a>.</i>
+<i>Above: Chancellor Daniel Diermeier, seen here in his Kirkland office, advises fossil fuel executives from ROSEN Oil Group and TC Energy Natural Gas Company during a keynote panel titled “Managing Perceptions” at the 2020 International Pipeline Conference. The conference was sponsored by oil majors including Enbridge. Screenshot obtained from IPC <a href="https://event.asme.org/IPC-2020">2020 Highlight Video</a>.</i>
 
 ## News Coverage
 
