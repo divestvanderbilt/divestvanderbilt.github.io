@@ -2,7 +2,7 @@
 title: "PRESS RELEASE: Dores Divest’s Statement on Chancellor Diermeier’s Conflict of Interest"
 date: 2022-01-30T11:07:10+06:00
 author: Dores Divest 
-image : "images/exec_gang.png"
+image : "images/exec_gang2.png"
 bg_image: "images/Kirkland.jpg"
 categories: ["Company News"]
 tags: ["Admin Response"]
