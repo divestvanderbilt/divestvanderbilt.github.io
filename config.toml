@@ -165,11 +165,10 @@ URL = "/about"
 weight = 2
 
 	
-	[[Languages.en.menu.main]]
-	parent = "resources"
-	name = "Headlines"
-	URL = "blog"
-	weight = 4
+[[Languages.en.menu.main]]
+name = "Headlines"
+URL = "blog"
+weight = 3
 
 	[[Languages.en.menu.main]]
 	parent = "resources"
