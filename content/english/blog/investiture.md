@@ -6,7 +6,7 @@ image : "images/investiture.jpeg"
 bg_image: "images/Kirkland.jpg"
 categories: ["Company News"]
 tags: ["Demonstrations"]
-description: "The university and Board of Trust a formal ceremony which was protested by Dores Divest from April 8-9."
+description: "The university and Board of Trust hosted a formal ceremony which was protested by Dores Divest from April 8-9."
 draft: false
 type: "post"
 ---
